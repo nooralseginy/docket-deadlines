@@ -1,0 +1,47 @@
+{
+  "id": "scott-amerit",
+  "caseName": "Scott v. Amerit Fleet Solutions",
+  "caseNumber": "1:2026cv06093",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2026-07-17",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-10-06",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "scott-amerit-18",
+      "entryNumber": 18,
+      "dateFiled": "2026-10-06",
+      "text": "Defendant must respond to any amended complaint within 14 days of its filing.",
+      "sourceUrl": "https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2026cv06093/668634/18",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "scott-amerit-5",
+      "entryNumber": 5,
+      "dateFiled": "2026-07-30",
+      "text": "SUMMONS RETURNED EXECUTED. Amerit Fleet Solutions served on 7/23/2026, answer due 8/13/2026. Service was accepted by Paul Hopeck-Registered Agent. Document filed by Melvin Scott..(Jean, Sabine)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "scott-amerit-10",
+      "entryNumber": 10,
+      "dateFiled": "2026-08-27",
+      "text": "NOTICE OF APPEARANCE by Scott Budow on behalf of Amerit Fleet Solutions..(Budow, Scott)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "scott-amerit-14",
+      "entryNumber": 14,
+      "dateFiled": "2026-08-28",
+      "text": "SECOND LETTER MOTION for Extension of Time to File a Response to the Complaint on Consent addressed to Judge Mary Kay Vyskocil from Scott A. Budow dated August 28, 2026. Document filed by Amerit Fleet Solutions..(Budow, Scott)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634",
+      "textIsExcerpt": true
+    }
+  ]
+}

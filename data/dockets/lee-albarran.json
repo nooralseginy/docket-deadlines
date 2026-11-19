@@ -1,0 +1,47 @@
+{
+  "id": "lee-albarran",
+  "caseName": "Lee v. Albarran et al",
+  "caseNumber": "7:2023cv11215",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2023-12-27",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-03-11",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "lee-albarran-26",
+      "entryNumber": 26,
+      "dateFiled": "2024-02-08",
+      "text": "Pltf. is directed to file an Amended Complaint on or before March 1, 2024. The Defs. are directed to answer, move, or otherwise respond to the Amended Complaint March 22, 2024.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "lee-albarran-21",
+      "entryNumber": 21,
+      "dateFiled": "2024-02-02",
+      "text": "Pltf. is directed to respond by February 9, 2024.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "lee-albarran-29",
+      "entryNumber": 29,
+      "dateFiled": "2024-02-21",
+      "text": "ORDER FOR ADMISSION PRO HAC VICE: granting #28 Motion for Jonathan T. Blank to Appear Pro Hac Vice.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "lee-albarran-24",
+      "entryNumber": 24,
+      "dateFiled": "2024-02-08",
+      "text": "NOTICE OF APPEARANCE by Sarah Rae Cantos on behalf of Terrence Lee..(Cantos, Sarah)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730",
+      "textIsExcerpt": true
+    }
+  ]
+}

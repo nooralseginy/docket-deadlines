@@ -1,0 +1,55 @@
+{
+  "entryId": "bell-nyc-education-25",
+  "docketId": "bell-nyc-education",
+  "inputHash": "590fb6dab0f73ed6cd0830d2a44537b1e50247f6084d005cddb2864fe1533445",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.951Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Discovery",
+        "explicitDate": "2026-10-30",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Fact Depositions to be completed by October 30, 2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Discovery",
+      "explicitDate": "2026-10-30",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Fact Depositions to be completed by October 30, 2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "bell-nyc-education-25-1",
+      "dueDate": "2026-10-30",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

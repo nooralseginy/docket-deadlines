@@ -1,0 +1,84 @@
+{
+  "entryId": "binance-dow-jones-36",
+  "docketId": "binance-dow-jones",
+  "inputHash": "d001e5b4e98f559fe0125ae01c6b72237a4e5378647798d36df2165b337ccdd2",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.951Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Filing",
+        "explicitDate": "2026-09-08",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Redaction Request due 9/8/2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      },
+      {
+        "kind": "Filing",
+        "explicitDate": "2026-09-18",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Redacted Transcript Deadline set for 9/18/2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Filing",
+      "explicitDate": "2026-09-08",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Redaction Request due 9/8/2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "binance-dow-jones-36-1",
+      "dueDate": "2026-09-08",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    },
+    {
+      "kind": "Filing",
+      "explicitDate": "2026-09-18",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Redacted Transcript Deadline set for 9/18/2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "binance-dow-jones-36-2",
+      "dueDate": "2026-09-18",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

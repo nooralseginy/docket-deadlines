@@ -1,0 +1,24 @@
+{
+  "entryId": "jl-nyc-education-16",
+  "docketId": "jl-nyc-education",
+  "inputHash": "db3f13a8cc4fd7297de4019c7f7beceafa36950efebbea30be48451e3d30a3a0",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.954Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

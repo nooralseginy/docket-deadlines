@@ -1,0 +1,67 @@
+{
+  "entryId": "scott-amerit-18",
+  "docketId": "scott-amerit",
+  "inputHash": "462c44637839b85500f66e58be7b292c8021ec65762bf67b088770bcbb86b215",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.960Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Relative deadline",
+        "explicitDate": null,
+        "trigger": {
+          "event": "Trigger requires confirmation",
+          "date": null,
+          "quote": "Defendant must respond to any amended complaint within 14 days of its filing."
+        },
+        "periodDays": 14,
+        "unit": "days",
+        "direction": "after",
+        "quote": "Defendant must respond to any amended complaint within 14 days of its filing.",
+        "confidence": 0.7,
+        "needsReview": true,
+        "reviewReason": "Local baseline cannot confirm the triggering event or date."
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Relative deadline",
+      "explicitDate": null,
+      "trigger": {
+        "event": "Trigger requires confirmation",
+        "date": null,
+        "quote": "Defendant must respond to any amended complaint within 14 days of its filing."
+      },
+      "periodDays": 14,
+      "unit": "days",
+      "direction": "after",
+      "quote": "Defendant must respond to any amended complaint within 14 days of its filing.",
+      "confidence": 0.7,
+      "needsReview": true,
+      "reviewReason": "Local baseline cannot confirm the triggering event or date.",
+      "id": "scott-amerit-18-1",
+      "dueDate": null,
+      "calculation": null,
+      "status": "review",
+      "reviewReasons": [
+        "Extraction confidence is below 0.85.",
+        "Local baseline cannot confirm the triggering event or date.",
+        "The trigger date is not stated in the trigger quote. Filing is not proof of service."
+      ]
+    }
+  ],
+  "needsReview": true,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

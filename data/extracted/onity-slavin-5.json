@@ -1,0 +1,24 @@
+{
+  "entryId": "onity-slavin-5",
+  "docketId": "onity-slavin",
+  "inputHash": "74d5721cb917585b1ac93861ae4d1805a80c968c3b736ac9909ff00d29df2abf",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.959Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

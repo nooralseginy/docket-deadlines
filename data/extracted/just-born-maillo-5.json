@@ -1,0 +1,55 @@
+{
+  "entryId": "just-born-maillo-5",
+  "docketId": "just-born-maillo",
+  "inputHash": "134d9ea0b6f696724d314bda2565da9a100e4eaad81a2814bb645a0b34cdd798",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.955Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Answer",
+        "explicitDate": "2026-05-20",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "MAILLO CONFECTIONS LLC served on 4/29/2026, answer due 5/20/2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Answer",
+      "explicitDate": "2026-05-20",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "MAILLO CONFECTIONS LLC served on 4/29/2026, answer due 5/20/2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "just-born-maillo-5-1",
+      "dueDate": "2026-05-20",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

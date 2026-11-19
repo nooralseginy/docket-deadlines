@@ -1,0 +1,55 @@
+{
+  "entryId": "siena-black-24",
+  "docketId": "siena-black",
+  "inputHash": "f9ae8d87a2d05318ce6359e9c27b2f1f3c5dbad4d9ebc876c4ed3fd58942b41b",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.961Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Answer",
+        "explicitDate": "2025-10-28",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Black, III answer due 10/28/2025.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Answer",
+      "explicitDate": "2025-10-28",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Black, III answer due 10/28/2025.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "siena-black-24-1",
+      "dueDate": "2025-10-28",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

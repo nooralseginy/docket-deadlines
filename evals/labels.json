@@ -1,0 +1,659 @@
+{
+  "schemaVersion": 1,
+  "status": "provisional",
+  "authoredBy": "Codex",
+  "humanReviewed": false,
+  "description": "Agent-authored candidate labels on 60 selected public docket-entry excerpts. Not hand-labeled by Noor; not an independent or held-out benchmark. Human review is required before portfolio accuracy claims.",
+  "entries": [
+    {
+      "entryId": "binance-dow-jones-37",
+      "docketId": "binance-dow-jones",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "notice",
+          "dueDate": null,
+          "quote": "The parties have seven (7) calendar days to file with the court a Notice of Intent to Request Redaction of this transcript."
+        }
+      ],
+      "reviewRequired": true,
+      "notes": "The excerpt states a seven-calendar-day period but does not name or date the trigger. The notice filing date is metadata, not an established trigger. No due date may be inferred."
+    },
+    {
+      "entryId": "binance-dow-jones-36",
+      "docketId": "binance-dow-jones",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "redaction-request",
+          "dueDate": "2026-09-08",
+          "quote": "Redaction Request due 9/8/2026."
+        },
+        {
+          "kind": "redacted-transcript",
+          "dueDate": "2026-09-18",
+          "quote": "Redacted Transcript Deadline set for 9/18/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "binance-dow-jones-20",
+      "docketId": "binance-dow-jones",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "binance-dow-jones-15",
+      "docketId": "binance-dow-jones",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-05-18",
+          "quote": "The Court, as requested, extends the deadline for defendant to answer, move, or otherwise respond to the complaint until May 18, 2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "calascione-njdcf-8",
+      "docketId": "calascione-njdcf",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "response",
+          "dueDate": "2026-08-25",
+          "quote": "Responses due by 8/25/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "calascione-njdcf-7",
+      "docketId": "calascione-njdcf",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false,
+      "notes": "A request for an extension does not itself set a new deadline."
+    },
+    {
+      "entryId": "calascione-njdcf-6",
+      "docketId": "calascione-njdcf",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-08-06",
+          "quote": "LETTER ORDER granting Defendants' #5 request for additional time to respond to the Amended Complaint, to August 6, 2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "calascione-njdcf-5",
+      "docketId": "calascione-njdcf",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "jl-nyc-education-15",
+      "docketId": "jl-nyc-education",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-05-22",
+          "quote": "Raheem Anderson Martin served on 5/1/2026, answer due 5/22/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "jl-nyc-education-14",
+      "docketId": "jl-nyc-education",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-05-22",
+          "quote": "Jose Velasquez served on 5/1/2026, answer due 5/22/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "jl-nyc-education-16",
+      "docketId": "jl-nyc-education",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "jl-nyc-education-text-2026-07-07",
+      "docketId": "jl-nyc-education",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "response",
+          "dueDate": "2026-07-08",
+          "quote": "Plaintiffs' response to defendants' premotion conference letter due by 7/8/26."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "scott-amerit-18",
+      "docketId": "scott-amerit",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "response",
+          "dueDate": null,
+          "quote": "Defendant must respond to any amended complaint within 14 days of its filing."
+        }
+      ],
+      "reviewRequired": true,
+      "notes": "Conditional deadline. The selected snapshot does not establish whether or when an amended complaint was filed."
+    },
+    {
+      "entryId": "scott-amerit-5",
+      "docketId": "scott-amerit",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-08-13",
+          "quote": "Amerit Fleet Solutions served on 7/23/2026, answer due 8/13/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "scott-amerit-10",
+      "docketId": "scott-amerit",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "scott-amerit-14",
+      "docketId": "scott-amerit",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false,
+      "notes": "Extension requested; no deadline created by this excerpt."
+    },
+    {
+      "entryId": "zim-td-logistics-35",
+      "docketId": "zim-td-logistics",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "motion",
+          "dueDate": "2026-05-04",
+          "quote": "By May 4, 2026, Defendant shall file its motion to stay;"
+        },
+        {
+          "kind": "response",
+          "dueDate": "2026-05-26",
+          "quote": "By May 26, 2026, Plaintiff shall respond;"
+        },
+        {
+          "kind": "reply",
+          "dueDate": "2026-06-08",
+          "quote": "By June 8, 2026, Defendant shall file its reply, if any."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "zim-td-logistics-31",
+      "docketId": "zim-td-logistics",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "response",
+          "dueDate": "2026-03-24",
+          "quote": "By March 24, 2026, Plaintiff shall respond to Defendant's February 11, 2026 pre-motion letter."
+        },
+        {
+          "kind": "answer",
+          "dueDate": "2026-03-31",
+          "quote": "By March 31, 2026, Defendant shall answer or otherwise respond to Plaintiff's complaint."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "zim-td-logistics-36",
+      "docketId": "zim-td-logistics",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "zim-td-logistics-33",
+      "docketId": "zim-td-logistics",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "siena-black-24",
+      "docketId": "siena-black",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2025-10-28",
+          "quote": "Samuel P. Black, III answer due 10/28/2025."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "siena-black-18",
+      "docketId": "siena-black",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2025-08-29",
+          "quote": "Samuel P. Black, III answer due 8/29/2025."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "siena-black-20",
+      "docketId": "siena-black",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "siena-black-23",
+      "docketId": "siena-black",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "empire-voyager-50",
+      "docketId": "empire-voyager",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2025-10-31",
+          "quote": "As a one-time courtesy, the Court sua sponte EXTENDS Kyte Rentals' deadline to respond to the counterclaims and/or crossclaims in the Answer up to and including October 31, 2025."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "empire-voyager-49",
+      "docketId": "empire-voyager",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "status-report",
+          "dueDate": "2025-12-03",
+          "quote": "On or before December 3, 2025, the parties shall file another joint letter setting forth the status of settlement discussions following the global mediation."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "empire-voyager-47",
+      "docketId": "empire-voyager",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "empire-voyager-43",
+      "docketId": "empire-voyager",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "murudumbay-stone-48",
+      "docketId": "murudumbay-stone",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "pretrial-order",
+          "dueDate": "2026-03-16",
+          "quote": "The joint pretrial order, motions in limine, and requests to charge will be due March 16, 2026,"
+        },
+        {
+          "kind": "response",
+          "dueDate": "2026-03-23",
+          "quote": "with responses due March 23, 2026."
+        }
+      ],
+      "reviewRequired": false,
+      "notes": "For excerpt-level scoring, the coordinated March 16 obligations are treated as one deadline group."
+    },
+    {
+      "entryId": "murudumbay-stone-53",
+      "docketId": "murudumbay-stone",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "murudumbay-stone-52",
+      "docketId": "murudumbay-stone",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "murudumbay-stone-51",
+      "docketId": "murudumbay-stone",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "bell-nyc-education-27",
+      "docketId": "bell-nyc-education",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "notice",
+          "dueDate": null,
+          "quote": "The parties have seven (7) calendar days to file with the court a Notice of Intent to Request Redaction of this transcript."
+        }
+      ],
+      "reviewRequired": true,
+      "notes": "The excerpt states a seven-calendar-day period but does not name or date the trigger. The notice filing date is metadata, not an established trigger. No due date may be inferred."
+    },
+    {
+      "entryId": "bell-nyc-education-26",
+      "docketId": "bell-nyc-education",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "redaction-request",
+          "dueDate": "2026-05-08",
+          "quote": "Redaction Request due 5/8/2026."
+        },
+        {
+          "kind": "redacted-transcript",
+          "dueDate": "2026-05-18",
+          "quote": "Redacted Transcript Deadline set for 5/18/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "bell-nyc-education-25",
+      "docketId": "bell-nyc-education",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "discovery",
+          "dueDate": "2026-10-30",
+          "quote": "Fact Depositions to be completed by October 30, 2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "bell-nyc-education-28",
+      "docketId": "bell-nyc-education",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "onity-slavin-6",
+      "docketId": "onity-slavin",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "onity-slavin-5",
+      "docketId": "onity-slavin",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "onity-slavin-4",
+      "docketId": "onity-slavin",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "onity-slavin-8",
+      "docketId": "onity-slavin",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "just-born-maillo-9",
+      "docketId": "just-born-maillo",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-06-29",
+          "quote": "STIPULATION AND ORDER granting #8 extending deadlines for Defendants to respond to Complaint #1 to 6/29/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "just-born-maillo-7",
+      "docketId": "just-born-maillo",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "just-born-maillo-6",
+      "docketId": "just-born-maillo",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-05-28",
+          "quote": "THE SNACKATERE NJ INCORPORATED served on 5/7/2026, answer due 5/28/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "just-born-maillo-5",
+      "docketId": "just-born-maillo",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-05-20",
+          "quote": "MAILLO CONFECTIONS LLC served on 4/29/2026, answer due 5/20/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "scaglione-mullica-30",
+      "docketId": "scaglione-mullica",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "response",
+          "dueDate": "2026-08-03",
+          "quote": "Responses due by 8/3/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "scaglione-mullica-28",
+      "docketId": "scaglione-mullica",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "amended-complaint",
+          "dueDate": "2026-07-13",
+          "quote": "Plaintiff shall file the second amended complaint no later than July 13, 2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "scaglione-mullica-29",
+      "docketId": "scaglione-mullica",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "scaglione-mullica-31",
+      "docketId": "scaglione-mullica",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "lopez-nj-appellate-22",
+      "docketId": "lopez-nj-appellate",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "status-report",
+          "dueDate": null,
+          "quote": "The parties are ordered to submit a joint letter informing the Court of the status of the case within seven (7) days of the District Judge issuing a decision as to the motion to dismiss at Dkt. No. #13 ."
+        }
+      ],
+      "reviewRequired": true,
+      "notes": "The future decision trigger is absent from the selected snapshot."
+    },
+    {
+      "entryId": "lopez-nj-appellate-14",
+      "docketId": "lopez-nj-appellate",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "discovery-plan",
+          "dueDate": null,
+          "quote": "No later than five (5) business days before the conference, the parties shall submit their joint discovery plan for the Court's consideration, as stated in the Order."
+        }
+      ],
+      "reviewRequired": true,
+      "notes": "The conference is June 10, 2026 in the full entry, but that sentence is outside this selected excerpt. Business-day periods are outside the FRCP calendar-day engine."
+    },
+    {
+      "entryId": "lopez-nj-appellate-13",
+      "docketId": "lopez-nj-appellate",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "response",
+          "dueDate": "2026-05-04",
+          "quote": "Responses due by 5/4/2026."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "lopez-nj-appellate-21",
+      "docketId": "lopez-nj-appellate",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "milestone-stapleton-19",
+      "docketId": "milestone-stapleton",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "answer",
+          "dueDate": "2026-12-04",
+          "quote": "Based on that representation, the Court will move the deadline to answer to December 4, 2026, noting that one of the defendants is a corporation and therefore cannot appear pro se under any circumstances."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "milestone-stapleton-2",
+      "docketId": "milestone-stapleton",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "milestone-stapleton-3",
+      "docketId": "milestone-stapleton",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "milestone-stapleton-4",
+      "docketId": "milestone-stapleton",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "lee-albarran-26",
+      "docketId": "lee-albarran",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "amended-complaint",
+          "dueDate": "2024-03-01",
+          "quote": "Pltf. is directed to file an Amended Complaint on or before March 1, 2024."
+        },
+        {
+          "kind": "answer",
+          "dueDate": "2024-03-22",
+          "quote": "The Defs. are directed to answer, move, or otherwise respond to the Amended Complaint March 22, 2024."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "lee-albarran-21",
+      "docketId": "lee-albarran",
+      "isDeadline": true,
+      "deadlines": [
+        {
+          "kind": "response",
+          "dueDate": "2024-02-09",
+          "quote": "Pltf. is directed to respond by February 9, 2024."
+        }
+      ],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "lee-albarran-29",
+      "docketId": "lee-albarran",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    },
+    {
+      "entryId": "lee-albarran-24",
+      "docketId": "lee-albarran",
+      "isDeadline": false,
+      "deadlines": [],
+      "reviewRequired": false
+    }
+  ],
+  "scope": "Party filing, response, service and discovery-action deadlines stated in the selected excerpt; excludes scheduled court appearances, completed filings and automatic transcript-release dates."
+}

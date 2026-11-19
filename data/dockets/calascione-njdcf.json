@@ -1,0 +1,47 @@
+{
+  "id": "calascione-njdcf",
+  "caseName": "Calascione v. New Jersey Department of Children and Families et al",
+  "caseNumber": "3:2026cv08071",
+  "court": "njd",
+  "courtName": "District of New Jersey",
+  "dateFiled": "2026-07-02",
+  "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-08-20",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "calascione-njdcf-8",
+      "entryNumber": 8,
+      "dateFiled": "2026-08-06",
+      "text": "MOTION to Dismiss for Lack of Jurisdiction and for failure to state a claim by MICHAEL DEIANNI, DANIELLE FREDERICK, NEW JERSEY DEPARTMENT OF CHILDREN AND FAMILIES - DIVISION OF CHILD PROTECTION AND PERMANENCY, CHRISTOPHER OLIVERAS, DANIELLE SENECA. Responses due by 8/25/2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "calascione-njdcf-7",
+      "entryNumber": 7,
+      "dateFiled": "2026-08-06",
+      "text": "Letter from Defendants seeking additional one day extension re #6 Order on Motion for Miscellaneous Relief. (GIBBONS, ADAM)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "calascione-njdcf-6",
+      "entryNumber": 6,
+      "dateFiled": "2026-07-23",
+      "text": "LETTER ORDER granting Defendants' #5 request for additional time to respond to the Amended Complaint, to August 6, 2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "calascione-njdcf-5",
+      "entryNumber": 5,
+      "dateFiled": "2026-07-23",
+      "text": "Letter from Defendants seeking additional time to respond to AC - with consent. (GIBBONS, ADAM)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "textIsExcerpt": true
+    }
+  ]
+}

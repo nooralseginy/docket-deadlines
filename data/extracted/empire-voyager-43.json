@@ -1,0 +1,24 @@
+{
+  "entryId": "empire-voyager-43",
+  "docketId": "empire-voyager",
+  "inputHash": "ed16f2eb3b959075750da368070cf8d82adbcc616e22a454c505f444f9c45289",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.953Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

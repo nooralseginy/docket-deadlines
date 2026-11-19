@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-11-19",
+  "provider": "Justia public federal docket mirrors",
+  "courtListenerStatus": "REST v4 dockets endpoint returned HTTP 401 without a token on November 19, 2026. Public search was inaccessible through web retrieval. Direct Justia HTTP retrieval returned 403, so the source excerpts were transcribed from accessible indexed public web pages. No CourtListener IDs have been invented.",
+  "coverage": "15 cases, 60 selected entry excerpts, 3 federal district courts. Excerpts omit parts of entries and each case omits other entries. Not a live docket monitor.",
+  "selection": "Convenience sample selected by Codex for varied positive, negative, relative, conditional and multi-date examples; not representative.",
+  "textPolicy": "Public federal court docket text only. Surrounding Justia commentary and page layout excluded. Whitespace normalized by web retrieval.",
+  "sources": [
+    {
+      "docketId": "binance-dow-jones",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv01980/659424",
+      "sourceLastRetrieved": "2026-08-18",
+      "entries": [
+        {
+          "entryId": "binance-dow-jones-37",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv01980/659424"
+        },
+        {
+          "entryId": "binance-dow-jones-36",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv01980/659424"
+        },
+        {
+          "entryId": "binance-dow-jones-20",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv01980/659424"
+        },
+        {
+          "entryId": "binance-dow-jones-15",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv01980/659424"
+        }
+      ]
+    },
+    {
+      "docketId": "calascione-njdcf",
+      "url": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "sourceLastRetrieved": "2026-08-20",
+      "entries": [
+        {
+          "entryId": "calascione-njdcf-8",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202"
+        },
+        {
+          "entryId": "calascione-njdcf-7",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202"
+        },
+        {
+          "entryId": "calascione-njdcf-6",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202"
+        },
+        {
+          "entryId": "calascione-njdcf-5",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202"
+        }
+      ]
+    },
+    {
+      "docketId": "jl-nyc-education",
+      "url": "https://dockets.justia.com/docket/new-york/nyedce/1%3A2026cv01656/543473",
+      "sourceLastRetrieved": "2026-08-11",
+      "entries": [
+        {
+          "entryId": "jl-nyc-education-15",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/1%3A2026cv01656/543473"
+        },
+        {
+          "entryId": "jl-nyc-education-14",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/1%3A2026cv01656/543473"
+        },
+        {
+          "entryId": "jl-nyc-education-16",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/1%3A2026cv01656/543473"
+        },
+        {
+          "entryId": "jl-nyc-education-text-2026-07-07",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/1%3A2026cv01656/543473"
+        }
+      ]
+    },
+    {
+      "docketId": "scott-amerit",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634",
+      "sourceLastRetrieved": "2026-10-06",
+      "entries": [
+        {
+          "entryId": "scott-amerit-18",
+          "url": "https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2026cv06093/668634/18"
+        },
+        {
+          "entryId": "scott-amerit-5",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634"
+        },
+        {
+          "entryId": "scott-amerit-10",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634"
+        },
+        {
+          "entryId": "scott-amerit-14",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv06093/668634"
+        }
+      ]
+    },
+    {
+      "docketId": "zim-td-logistics",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "sourceLastRetrieved": "2026-05-04",
+      "entries": [
+        {
+          "entryId": "zim-td-logistics-35",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060"
+        },
+        {
+          "entryId": "zim-td-logistics-31",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060"
+        },
+        {
+          "entryId": "zim-td-logistics-36",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060"
+        },
+        {
+          "entryId": "zim-td-logistics-33",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060"
+        }
+      ]
+    },
+    {
+      "docketId": "siena-black",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980",
+      "sourceLastRetrieved": "2026-01-30",
+      "entries": [
+        {
+          "entryId": "siena-black-24",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980"
+        },
+        {
+          "entryId": "siena-black-18",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980"
+        },
+        {
+          "entryId": "siena-black-20",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980"
+        },
+        {
+          "entryId": "siena-black-23",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980"
+        }
+      ]
+    },
+    {
+      "docketId": "empire-voyager",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493",
+      "sourceLastRetrieved": "2025-11-03",
+      "entries": [
+        {
+          "entryId": "empire-voyager-50",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493"
+        },
+        {
+          "entryId": "empire-voyager-49",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493"
+        },
+        {
+          "entryId": "empire-voyager-47",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493"
+        },
+        {
+          "entryId": "empire-voyager-43",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493"
+        }
+      ]
+    },
+    {
+      "docketId": "murudumbay-stone",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610",
+      "sourceLastRetrieved": "2026-02-20",
+      "entries": [
+        {
+          "entryId": "murudumbay-stone-48",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610"
+        },
+        {
+          "entryId": "murudumbay-stone-53",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610"
+        },
+        {
+          "entryId": "murudumbay-stone-52",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610"
+        },
+        {
+          "entryId": "murudumbay-stone-51",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610"
+        }
+      ]
+    },
+    {
+      "docketId": "bell-nyc-education",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "sourceLastRetrieved": "2026-09-14",
+      "entries": [
+        {
+          "entryId": "bell-nyc-education-27",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682"
+        },
+        {
+          "entryId": "bell-nyc-education-26",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682"
+        },
+        {
+          "entryId": "bell-nyc-education-25",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682"
+        },
+        {
+          "entryId": "bell-nyc-education-28",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682"
+        }
+      ]
+    },
+    {
+      "docketId": "onity-slavin",
+      "url": "https://dockets.justia.com/docket/new-york/nyedce/2%3A2026cv04757/549538",
+      "sourceLastRetrieved": "2026-08-05",
+      "entries": [
+        {
+          "entryId": "onity-slavin-6",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/2%3A2026cv04757/549538"
+        },
+        {
+          "entryId": "onity-slavin-5",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/2%3A2026cv04757/549538"
+        },
+        {
+          "entryId": "onity-slavin-4",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/2%3A2026cv04757/549538"
+        },
+        {
+          "entryId": "onity-slavin-8",
+          "url": "https://dockets.justia.com/docket/new-york/nyedce/2%3A2026cv04757/549538"
+        }
+      ]
+    },
+    {
+      "docketId": "just-born-maillo",
+      "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777",
+      "sourceLastRetrieved": "2026-08-27",
+      "entries": [
+        {
+          "entryId": "just-born-maillo-9",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777"
+        },
+        {
+          "entryId": "just-born-maillo-7",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777"
+        },
+        {
+          "entryId": "just-born-maillo-6",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777"
+        },
+        {
+          "entryId": "just-born-maillo-5",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777"
+        }
+      ]
+    },
+    {
+      "docketId": "scaglione-mullica",
+      "url": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715",
+      "sourceLastRetrieved": "2026-08-06",
+      "entries": [
+        {
+          "entryId": "scaglione-mullica-30",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715"
+        },
+        {
+          "entryId": "scaglione-mullica-28",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715"
+        },
+        {
+          "entryId": "scaglione-mullica-29",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715"
+        },
+        {
+          "entryId": "scaglione-mullica-31",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715"
+        }
+      ]
+    },
+    {
+      "docketId": "lopez-nj-appellate",
+      "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "sourceLastRetrieved": "2026-07-27",
+      "entries": [
+        {
+          "entryId": "lopez-nj-appellate-22",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047"
+        },
+        {
+          "entryId": "lopez-nj-appellate-14",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047"
+        },
+        {
+          "entryId": "lopez-nj-appellate-13",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047"
+        },
+        {
+          "entryId": "lopez-nj-appellate-21",
+          "url": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047"
+        }
+      ]
+    },
+    {
+      "docketId": "milestone-stapleton",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919",
+      "sourceLastRetrieved": "2026-09-29",
+      "entries": [
+        {
+          "entryId": "milestone-stapleton-19",
+          "url": "https://cases.justia.com/federal/district-courts/new-york/nysdce/1%3A2026cv08566/673919/19/0.pdf"
+        },
+        {
+          "entryId": "milestone-stapleton-2",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919"
+        },
+        {
+          "entryId": "milestone-stapleton-3",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919"
+        },
+        {
+          "entryId": "milestone-stapleton-4",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919"
+        }
+      ]
+    },
+    {
+      "docketId": "lee-albarran",
+      "url": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730",
+      "sourceLastRetrieved": "2026-03-11",
+      "entries": [
+        {
+          "entryId": "lee-albarran-26",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730"
+        },
+        {
+          "entryId": "lee-albarran-21",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730"
+        },
+        {
+          "entryId": "lee-albarran-29",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730"
+        },
+        {
+          "entryId": "lee-albarran-24",
+          "url": "https://dockets.justia.com/docket/new-york/nysdce/7%3A2023cv11215/612730"
+        }
+      ]
+    }
+  ]
+}

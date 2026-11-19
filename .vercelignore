@@ -1,0 +1,9 @@
+.git
+node_modules
+.next
+out
+portfolio-source
+artifacts
+.env
+.env.*
+*.tsbuildinfo

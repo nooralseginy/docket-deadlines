@@ -1,0 +1,55 @@
+{
+  "entryId": "empire-voyager-50",
+  "docketId": "empire-voyager",
+  "inputHash": "392797ef2dafa10cce56e3d67d8ac7471c7a33f28f6f8b6232b9a613959f832e",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.953Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Answer",
+        "explicitDate": "2025-10-31",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "As a one-time courtesy, the Court sua sponte EXTENDS Kyte Rentals' deadline to respond to the counterclaims and/or crossclaims in the Answer up to and including October 31, 2025.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Answer",
+      "explicitDate": "2025-10-31",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "As a one-time courtesy, the Court sua sponte EXTENDS Kyte Rentals' deadline to respond to the counterclaims and/or crossclaims in the Answer up to and including October 31, 2025.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "empire-voyager-50-1",
+      "dueDate": "2025-10-31",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

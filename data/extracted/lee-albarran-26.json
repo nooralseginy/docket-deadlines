@@ -1,0 +1,84 @@
+{
+  "entryId": "lee-albarran-26",
+  "docketId": "lee-albarran",
+  "inputHash": "5245a81633c6ed07ca2e8dfab782cab5eacde5cf7f9d22bdbfefd5e9ed3d42a7",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.955Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Amended pleading",
+        "explicitDate": "2024-03-01",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "is directed to file an Amended Complaint on or before March 1, 2024.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      },
+      {
+        "kind": "Answer",
+        "explicitDate": "2024-03-22",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "are directed to answer, move, or otherwise respond to the Amended Complaint March 22, 2024.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Amended pleading",
+      "explicitDate": "2024-03-01",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "is directed to file an Amended Complaint on or before March 1, 2024.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "lee-albarran-26-1",
+      "dueDate": "2024-03-01",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    },
+    {
+      "kind": "Answer",
+      "explicitDate": "2024-03-22",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "are directed to answer, move, or otherwise respond to the Amended Complaint March 22, 2024.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "lee-albarran-26-2",
+      "dueDate": "2024-03-22",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

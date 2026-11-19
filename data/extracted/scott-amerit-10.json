@@ -1,0 +1,24 @@
+{
+  "entryId": "scott-amerit-10",
+  "docketId": "scott-amerit",
+  "inputHash": "ce8938d0f8b60f6b145963659628d96c2a0168c1c96e7dc5fa0f2433ee9ce3a1",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.960Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

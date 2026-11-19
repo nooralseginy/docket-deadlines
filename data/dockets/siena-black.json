@@ -1,0 +1,47 @@
+{
+  "id": "siena-black",
+  "caseName": "Siena Lending Group LLC v. Black",
+  "caseNumber": "1:2025cv02794",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2025-04-03",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-01-30",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "siena-black-24",
+      "entryNumber": 24,
+      "dateFiled": "2025-09-15",
+      "text": "Samuel P. Black, III answer due 10/28/2025.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "siena-black-18",
+      "entryNumber": 18,
+      "dateFiled": "2025-06-02",
+      "text": "Samuel P. Black, III answer due 8/29/2025.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "siena-black-20",
+      "entryNumber": 20,
+      "dateFiled": "2025-09-08",
+      "text": "LETTER addressed to Magistrate Judge Barbara C. Moses from Michael D. Silberfarb dated September 8, 2025 re: Case Status. Document filed by Siena Lending Group LLC..(Silberfarb, Michael)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "siena-black-23",
+      "entryNumber": 23,
+      "dateFiled": "2025-09-12",
+      "text": "PROPOSED STIPULATION AND ORDER. Document filed by Siena Lending Group LLC..(Silberfarb, Michael)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02794/639980",
+      "textIsExcerpt": true
+    }
+  ]
+}

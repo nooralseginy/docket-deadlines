@@ -1,0 +1,55 @@
+{
+  "entryId": "scaglione-mullica-28",
+  "docketId": "scaglione-mullica",
+  "inputHash": "b1b8d070f5da643f82d4ef33306c92db30d2c7c6811e1ee838a243fed9558b75",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.959Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Amended pleading",
+        "explicitDate": "2026-07-13",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Plaintiff shall file the second amended complaint no later than July 13, 2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Amended pleading",
+      "explicitDate": "2026-07-13",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Plaintiff shall file the second amended complaint no later than July 13, 2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "scaglione-mullica-28-1",
+      "dueDate": "2026-07-13",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

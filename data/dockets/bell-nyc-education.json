@@ -1,0 +1,47 @@
+{
+  "id": "bell-nyc-education",
+  "caseName": "Bell et al v. The New York City Department of Education",
+  "caseNumber": "1:2025cv09817",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2025-11-25",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-09-14",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "bell-nyc-education-27",
+      "entryNumber": 27,
+      "dateFiled": "2026-04-17",
+      "text": "The parties have seven (7) calendar days to file with the court a Notice of Intent to Request Redaction of this transcript.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "bell-nyc-education-26",
+      "entryNumber": 26,
+      "dateFiled": "2026-04-17",
+      "text": "Redaction Request due 5/8/2026. Redacted Transcript Deadline set for 5/18/2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "bell-nyc-education-25",
+      "entryNumber": 25,
+      "dateFiled": "2026-03-18",
+      "text": "Fact Depositions to be completed by October 30, 2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "bell-nyc-education-28",
+      "entryNumber": 28,
+      "dateFiled": "2026-05-15",
+      "text": "NOTICE OF APPEARANCE by Sonya Gidumal Chazin on behalf of The New York City Department of Education..(Chazin, Sonya)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "textIsExcerpt": true
+    }
+  ]
+}

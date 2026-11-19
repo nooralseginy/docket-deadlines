@@ -1,0 +1,47 @@
+{
+  "id": "just-born-maillo",
+  "caseName": "Just Born, Inc. v. Maillo Confections LLC et al",
+  "caseNumber": "2:2026cv04606",
+  "court": "njd",
+  "courtName": "District of New Jersey",
+  "dateFiled": "2026-04-27",
+  "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-08-27",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "just-born-maillo-9",
+      "entryNumber": 9,
+      "dateFiled": "2026-05-21",
+      "text": "STIPULATION AND ORDER granting #8 extending deadlines for Defendants to respond to Complaint #1 to 6/29/2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "just-born-maillo-7",
+      "entryNumber": 7,
+      "dateFiled": "2026-05-19",
+      "text": "NOTICE of Appearance by ANDREW DAVID BOCHNER on behalf of MAILLO CONFECTIONS LLC, THE SNACKATERE NJ INCORPORATED (BOCHNER, ANDREW)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "just-born-maillo-6",
+      "entryNumber": 6,
+      "dateFiled": "2026-05-11",
+      "text": "SUMMONS Returned Executed by JUST BORN, INC.. THE SNACKATERE NJ INCORPORATED served on 5/7/2026, answer due 5/28/2026. (DEFILIPPIS, DANIELLE)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "just-born-maillo-5",
+      "entryNumber": 5,
+      "dateFiled": "2026-05-04",
+      "text": "SUMMONS Returned Executed by JUST BORN, INC.. MAILLO CONFECTIONS LLC served on 4/29/2026, answer due 5/20/2026. (DEFILIPPIS, DANIELLE)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv04606/596777",
+      "textIsExcerpt": true
+    }
+  ]
+}

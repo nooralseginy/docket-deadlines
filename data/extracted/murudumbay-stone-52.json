@@ -1,0 +1,24 @@
+{
+  "entryId": "murudumbay-stone-52",
+  "docketId": "murudumbay-stone",
+  "inputHash": "bc5c37ed76a6c59100c6ad9c0b34351eed4d8be69981b159ffc98fc6fc44195e",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.958Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

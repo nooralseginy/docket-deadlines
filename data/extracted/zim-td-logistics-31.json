@@ -1,0 +1,84 @@
+{
+  "entryId": "zim-td-logistics-31",
+  "docketId": "zim-td-logistics",
+  "inputHash": "4bd7b261b525e482e38ee8a234483107fcc9e54c2b5ba4fa3b7adb0674a90502",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.961Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Response",
+        "explicitDate": "2026-03-24",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "By March 24, 2026, Plaintiff shall respond to Defendant's February 11, 2026 pre-motion letter.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      },
+      {
+        "kind": "Answer",
+        "explicitDate": "2026-03-31",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "By March 31, 2026, Defendant shall answer or otherwise respond to Plaintiff's complaint.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Response",
+      "explicitDate": "2026-03-24",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "By March 24, 2026, Plaintiff shall respond to Defendant's February 11, 2026 pre-motion letter.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "zim-td-logistics-31-1",
+      "dueDate": "2026-03-24",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    },
+    {
+      "kind": "Answer",
+      "explicitDate": "2026-03-31",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "By March 31, 2026, Defendant shall answer or otherwise respond to Plaintiff's complaint.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "zim-td-logistics-31-2",
+      "dueDate": "2026-03-31",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

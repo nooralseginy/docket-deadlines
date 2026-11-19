@@ -1,0 +1,55 @@
+{
+  "entryId": "binance-dow-jones-15",
+  "docketId": "binance-dow-jones",
+  "inputHash": "04c6f8164b8ccdb3df3b5607506970249a5832f2370c9f3c1ec83cdbecb6ca4c",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.952Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Answer",
+        "explicitDate": "2026-05-18",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "The Court, as requested, extends the deadline for defendant to answer, move, or otherwise respond to the complaint until May 18, 2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Answer",
+      "explicitDate": "2026-05-18",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "The Court, as requested, extends the deadline for defendant to answer, move, or otherwise respond to the complaint until May 18, 2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "binance-dow-jones-15-1",
+      "dueDate": "2026-05-18",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

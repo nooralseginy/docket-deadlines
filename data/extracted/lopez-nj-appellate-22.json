@@ -1,0 +1,67 @@
+{
+  "entryId": "lopez-nj-appellate-22",
+  "docketId": "lopez-nj-appellate",
+  "inputHash": "bc0e4ab7dd07f48d305ff5fa19b68faba1be053ea01d46d140cd33dce2fee16d",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.956Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Relative deadline",
+        "explicitDate": null,
+        "trigger": {
+          "event": "Trigger requires confirmation",
+          "date": null,
+          "quote": "The parties are ordered to submit a joint letter informing the Court of the status of the case within seven (7) days of the District Judge issuing a decision as to the motion to dismiss at Dkt."
+        },
+        "periodDays": 7,
+        "unit": "days",
+        "direction": "after",
+        "quote": "The parties are ordered to submit a joint letter informing the Court of the status of the case within seven (7) days of the District Judge issuing a decision as to the motion to dismiss at Dkt.",
+        "confidence": 0.7,
+        "needsReview": true,
+        "reviewReason": "Local baseline cannot confirm the triggering event or date."
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Relative deadline",
+      "explicitDate": null,
+      "trigger": {
+        "event": "Trigger requires confirmation",
+        "date": null,
+        "quote": "The parties are ordered to submit a joint letter informing the Court of the status of the case within seven (7) days of the District Judge issuing a decision as to the motion to dismiss at Dkt."
+      },
+      "periodDays": 7,
+      "unit": "days",
+      "direction": "after",
+      "quote": "The parties are ordered to submit a joint letter informing the Court of the status of the case within seven (7) days of the District Judge issuing a decision as to the motion to dismiss at Dkt.",
+      "confidence": 0.7,
+      "needsReview": true,
+      "reviewReason": "Local baseline cannot confirm the triggering event or date.",
+      "id": "lopez-nj-appellate-22-1",
+      "dueDate": null,
+      "calculation": null,
+      "status": "review",
+      "reviewReasons": [
+        "Extraction confidence is below 0.85.",
+        "Local baseline cannot confirm the triggering event or date.",
+        "The trigger date is not stated in the trigger quote. Filing is not proof of service."
+      ]
+    }
+  ],
+  "needsReview": true,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

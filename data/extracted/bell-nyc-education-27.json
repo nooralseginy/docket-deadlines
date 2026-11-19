@@ -1,0 +1,68 @@
+{
+  "entryId": "bell-nyc-education-27",
+  "docketId": "bell-nyc-education",
+  "inputHash": "e0d80786e01febf92d5e37f4b1f620060dfa710bf80756964ae9bfc78b9991ec",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.948Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Relative deadline",
+        "explicitDate": null,
+        "trigger": {
+          "event": "Trigger requires confirmation",
+          "date": null,
+          "quote": "The parties have seven (7) calendar days to file with the court a Notice of Intent to Request Redaction of this transcript."
+        },
+        "periodDays": 7,
+        "unit": "days",
+        "direction": null,
+        "quote": "The parties have seven (7) calendar days to file with the court a Notice of Intent to Request Redaction of this transcript.",
+        "confidence": 0.7,
+        "needsReview": true,
+        "reviewReason": "Local baseline cannot confirm the triggering event or date."
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Relative deadline",
+      "explicitDate": null,
+      "trigger": {
+        "event": "Trigger requires confirmation",
+        "date": null,
+        "quote": "The parties have seven (7) calendar days to file with the court a Notice of Intent to Request Redaction of this transcript."
+      },
+      "periodDays": 7,
+      "unit": "days",
+      "direction": null,
+      "quote": "The parties have seven (7) calendar days to file with the court a Notice of Intent to Request Redaction of this transcript.",
+      "confidence": 0.7,
+      "needsReview": true,
+      "reviewReason": "Local baseline cannot confirm the triggering event or date.",
+      "id": "bell-nyc-education-27-1",
+      "dueDate": null,
+      "calculation": null,
+      "status": "review",
+      "reviewReasons": [
+        "Extraction confidence is below 0.85.",
+        "Local baseline cannot confirm the triggering event or date.",
+        "The trigger date is not stated in the trigger quote. Filing is not proof of service.",
+        "The counting direction is missing."
+      ]
+    }
+  ],
+  "needsReview": true,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 2
+  }
+}

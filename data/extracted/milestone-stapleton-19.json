@@ -1,0 +1,55 @@
+{
+  "entryId": "milestone-stapleton-19",
+  "docketId": "milestone-stapleton",
+  "inputHash": "e3daa18c1290a0f243aa5d4f2fb46ab146c909bce2bcdf2374daa1ec75cc0041",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.957Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Answer",
+        "explicitDate": "2026-12-04",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Based on that representation, the Court will move the deadline to answer to December 4, 2026, noting that one of the defendants is a corporation and therefore cannot appear pro se under any circumstances.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Answer",
+      "explicitDate": "2026-12-04",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Based on that representation, the Court will move the deadline to answer to December 4, 2026, noting that one of the defendants is a corporation and therefore cannot appear pro se under any circumstances.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "milestone-stapleton-19-1",
+      "dueDate": "2026-12-04",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entryId": "lopez-nj-appellate-21",
+  "docketId": "lopez-nj-appellate",
+  "inputHash": "c991fae5fc453679edaca5aee4d51e8712804bd4f8f13e3a65890f2dff459012",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.957Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

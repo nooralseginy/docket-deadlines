@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-19",
+  "authoredBy": "Codex",
+  "humanReviewed": false,
+  "status": "agent-source-spot-check",
+  "method": "Codex reopened accessible indexed public Justia docket/document pages and compared the selected excerpt, entry number, filing date, and label with the displayed court text. Not a human review and not an independent model evaluation. CourtListener comparisons were unavailable without a token.",
+  "scope": "Party filing, response, service and discovery-action deadlines stated in the selected excerpt; excludes scheduled court appearances, completed filings and automatic transcript-release dates.",
+  "checks": [
+    {
+      "entryId": "binance-dow-jones-37",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv01980/659424",
+      "sourceLocation": "Filing 37, filed 2026-08-18",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "corrected",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        null
+      ],
+      "reviewRequired": true,
+      "finding": "The source has the seven-calendar-day notice period. The selected excerpt omits the trigger; removed the inferred August 25 date and requires review."
+    },
+    {
+      "entryId": "binance-dow-jones-36",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv01980/659424",
+      "sourceLocation": "Filing 36, filed 2026-08-18",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        "2026-09-08",
+        "2026-09-18"
+      ],
+      "reviewRequired": false,
+      "finding": "The selected source text expressly sets September 8 and September 18 redaction-related deadlines. Automatic transcript release is excluded."
+    },
+    {
+      "entryId": "bell-nyc-education-27",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "sourceLocation": "Filing 27, filed 2026-04-17",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "corrected",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        null
+      ],
+      "reviewRequired": true,
+      "finding": "The source has the seven-calendar-day notice period. The selected excerpt omits the trigger; removed the inferred April 24 date and requires review."
+    },
+    {
+      "entryId": "bell-nyc-education-26",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "sourceLocation": "Filing 26, filed 2026-04-17",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        "2026-05-08",
+        "2026-05-18"
+      ],
+      "reviewRequired": false,
+      "finding": "The selected source text expressly sets May 8 and May 18 redaction-related deadlines. Automatic transcript release is excluded."
+    },
+    {
+      "entryId": "bell-nyc-education-25",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09817/653682",
+      "sourceLocation": "Filing 25, filed 2026-03-18",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        "2026-10-30"
+      ],
+      "reviewRequired": false,
+      "finding": "The selected sentence expressly sets October 30, 2026 for fact depositions. Other dates elsewhere in the full entry are outside the excerpt."
+    },
+    {
+      "entryId": "scott-amerit-18",
+      "sourceUrl": "https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2026cv06093/668634/18",
+      "sourceLocation": "Filing 18, filed 2026-10-06",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        null
+      ],
+      "reviewRequired": true,
+      "finding": "The response period runs from filing an amended complaint, not from this order. No amended-complaint filing trigger is established in the excerpt; date remains null."
+    },
+    {
+      "entryId": "lopez-nj-appellate-22",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "sourceLocation": "Filing 22, filed 2026-06-10",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        null
+      ],
+      "reviewRequired": true,
+      "finding": "The status-letter period runs from the District Judge deciding the motion. That future event has no date in the selected snapshot; date remains null."
+    },
+    {
+      "entryId": "lopez-nj-appellate-14",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "sourceLocation": "Filing 14, filed 2026-04-15",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        null
+      ],
+      "reviewRequired": true,
+      "finding": "The plan is due five business days before a conference. The excerpt omits the conference date and business-day arithmetic is unsupported; date remains null."
+    },
+    {
+      "entryId": "lopez-nj-appellate-21",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "sourceLocation": "Filing 21, filed 2026-06-10",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": false,
+      "expectedDueDates": [],
+      "reviewRequired": false,
+      "finding": "This minute entry records a completed scheduling conference and a discovery stay. It creates no dated filing or action deadline."
+    },
+    {
+      "entryId": "zim-td-logistics-35",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "sourceLocation": "Filing 35, filed 2026-04-14",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        "2026-05-04",
+        "2026-05-26",
+        "2026-06-08"
+      ],
+      "reviewRequired": false,
+      "finding": "The source expressly sets motion, response and optional reply dates of May 4, May 26 and June 8, 2026."
+    },
+    {
+      "entryId": "zim-td-logistics-31",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "sourceLocation": "Filing 31, filed 2026-03-12",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        "2026-03-24",
+        "2026-03-31"
+      ],
+      "reviewRequired": false,
+      "finding": "The source expressly requires a March 24 response and a March 31 answer or other response."
+    },
+    {
+      "entryId": "zim-td-logistics-36",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "sourceLocation": "Filing 36, filed 2026-05-04",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": false,
+      "expectedDueDates": [],
+      "reviewRequired": false,
+      "finding": "This entry records a motion that was filed; it does not itself set a future deadline."
+    },
+    {
+      "entryId": "calascione-njdcf-8",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "sourceLocation": "Filing 8, filed 2026-08-06",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        "2026-08-25"
+      ],
+      "reviewRequired": false,
+      "finding": "The source expressly sets August 25, 2026 for responses to the motion."
+    },
+    {
+      "entryId": "calascione-njdcf-7",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "sourceLocation": "Filing 7, filed 2026-08-06",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": false,
+      "expectedDueDates": [],
+      "reviewRequired": false,
+      "finding": "This letter seeks an additional day. A request alone creates no new court deadline."
+    },
+    {
+      "entryId": "calascione-njdcf-6",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/3%3A2026cv08071/602202",
+      "sourceLocation": "Filing 6, filed 2026-07-23",
+      "excerptMatchesRetrievedSource": true,
+      "outcome": "confirmed",
+      "expectedDeadline": true,
+      "expectedDueDates": [
+        "2026-08-06"
+      ],
+      "reviewRequired": false,
+      "finding": "The court letter order expressly grants time to respond through August 6, 2026."
+    }
+  ]
+}

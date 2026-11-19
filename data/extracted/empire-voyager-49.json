@@ -1,0 +1,55 @@
+{
+  "entryId": "empire-voyager-49",
+  "docketId": "empire-voyager",
+  "inputHash": "6fdfbe559427ae931f499c2a5a9074e10e9dbc008a4d05007a8516135481f7aa",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.953Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Filing",
+        "explicitDate": "2025-12-03",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "On or before December 3, 2025, the parties shall file another joint letter setting forth the status of settlement discussions following the global mediation.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Filing",
+      "explicitDate": "2025-12-03",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "On or before December 3, 2025, the parties shall file another joint letter setting forth the status of settlement discussions following the global mediation.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "empire-voyager-49-1",
+      "dueDate": "2025-12-03",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

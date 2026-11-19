@@ -1,0 +1,24 @@
+{
+  "entryId": "lee-albarran-29",
+  "docketId": "lee-albarran",
+  "inputHash": "9c14f8586c03e3ef71a872bc247e5c7d26527f1cf6ddca45f1df35ca24013c97",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.956Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

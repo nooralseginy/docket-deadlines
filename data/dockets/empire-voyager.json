@@ -1,0 +1,47 @@
+{
+  "id": "empire-voyager",
+  "caseName": "Empire Fire and Marine Insurance Company v. Voyager Indemnity Insurance Company",
+  "caseNumber": "1:2025cv03558",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2025-04-29",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2025-11-03",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "empire-voyager-50",
+      "entryNumber": 50,
+      "dateFiled": "2025-10-17",
+      "text": "As a one-time courtesy, the Court sua sponte EXTENDS Kyte Rentals' deadline to respond to the counterclaims and/or crossclaims in the Answer up to and including October 31, 2025.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "empire-voyager-49",
+      "entryNumber": 49,
+      "dateFiled": "2025-10-16",
+      "text": "On or before December 3, 2025, the parties shall file another joint letter setting forth the status of settlement discussions following the global mediation.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "empire-voyager-47",
+      "entryNumber": 47,
+      "dateFiled": "2025-10-15",
+      "text": "Cross Defendant Angela Cilluffo's motion for permission for electronic case filing at Dkt. No. 44 is GRANTED. The Clerk of Court is respectfully directed to close Dkt. No. 44.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "empire-voyager-43",
+      "entryNumber": 43,
+      "dateFiled": "2025-10-09",
+      "text": "ANSWER to #14 Crossclaim., ANSWER to #14 Counterclaim. Document filed by Angela Cilluffo. (sac)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv03558/641493",
+      "textIsExcerpt": true
+    }
+  ]
+}

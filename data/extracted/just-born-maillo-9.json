@@ -1,0 +1,55 @@
+{
+  "entryId": "just-born-maillo-9",
+  "docketId": "just-born-maillo",
+  "inputHash": "83c11ffcb0d9a7ca8e1949c4466fe354b63cc66ebc04e277e52b37c55d665f16",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.954Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Response",
+        "explicitDate": "2026-06-29",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "STIPULATION AND ORDER granting #8 extending deadlines for Defendants to respond to Complaint #1 to 6/29/2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Response",
+      "explicitDate": "2026-06-29",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "STIPULATION AND ORDER granting #8 extending deadlines for Defendants to respond to Complaint #1 to 6/29/2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "just-born-maillo-9-1",
+      "dueDate": "2026-06-29",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

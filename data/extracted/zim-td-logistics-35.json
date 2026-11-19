@@ -1,0 +1,113 @@
+{
+  "entryId": "zim-td-logistics-35",
+  "docketId": "zim-td-logistics",
+  "inputHash": "9cc252b11ed4738d90ca93cb85fde81a38537bf9f8d842c2422a2bb1e9626e58",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.961Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Filing",
+        "explicitDate": "2026-05-04",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "By May 4, 2026, Defendant shall file its motion to stay;",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      },
+      {
+        "kind": "Response",
+        "explicitDate": "2026-05-26",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "By May 26, 2026, Plaintiff shall respond;",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      },
+      {
+        "kind": "Reply",
+        "explicitDate": "2026-06-08",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "By June 8, 2026, Defendant shall file its reply, if any.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Filing",
+      "explicitDate": "2026-05-04",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "By May 4, 2026, Defendant shall file its motion to stay;",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "zim-td-logistics-35-1",
+      "dueDate": "2026-05-04",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    },
+    {
+      "kind": "Response",
+      "explicitDate": "2026-05-26",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "By May 26, 2026, Plaintiff shall respond;",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "zim-td-logistics-35-2",
+      "dueDate": "2026-05-26",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    },
+    {
+      "kind": "Reply",
+      "explicitDate": "2026-06-08",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "By June 8, 2026, Defendant shall file its reply, if any.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "zim-td-logistics-35-3",
+      "dueDate": "2026-06-08",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

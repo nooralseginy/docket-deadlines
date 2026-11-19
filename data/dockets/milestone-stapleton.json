@@ -1,0 +1,47 @@
+{
+  "id": "milestone-stapleton",
+  "caseName": "Milestone Bank v. Stapleton et al",
+  "caseNumber": "1:2026cv08566",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2026-09-29",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-09-29",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "milestone-stapleton-19",
+      "entryNumber": 19,
+      "dateFiled": "2026-11-16",
+      "text": "Based on that representation, the Court will move the deadline to answer to December 4, 2026, noting that one of the defendants is a corporation and therefore cannot appear pro se under any circumstances.",
+      "sourceUrl": "https://cases.justia.com/federal/district-courts/new-york/nysdce/1%3A2026cv08566/673919/19/0.pdf",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "milestone-stapleton-2",
+      "entryNumber": 2,
+      "dateFiled": "2026-09-29",
+      "text": "RULE 7.1 CORPORATE DISCLOSURE STATEMENT. No Corporate Parent. Document filed by Milestone Bank..(Barbaruolo, Brandon)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "milestone-stapleton-3",
+      "entryNumber": 3,
+      "dateFiled": "2026-09-29",
+      "text": "REQUEST FOR ISSUANCE OF SUMMONS as to James R. Stapleton, re: #1 Complaint,,. Document filed by Milestone Bank..(Barbaruolo, Brandon)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "milestone-stapleton-4",
+      "entryNumber": 4,
+      "dateFiled": "2026-09-29",
+      "text": "REQUEST FOR ISSUANCE OF SUMMONS as to Joshua R. Johnston, re: #1 Complaint,,. Document filed by Milestone Bank..(Barbaruolo, Brandon)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2026cv08566/673919",
+      "textIsExcerpt": true
+    }
+  ]
+}

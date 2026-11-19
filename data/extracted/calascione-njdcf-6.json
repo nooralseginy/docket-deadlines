@@ -1,0 +1,55 @@
+{
+  "entryId": "calascione-njdcf-6",
+  "docketId": "calascione-njdcf",
+  "inputHash": "254703b194a676fbfa93802eb8ee4e11014936e04f66cf6bf09098be22102346",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.952Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Response",
+        "explicitDate": "2026-08-06",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "LETTER ORDER granting Defendants' #5 request for additional time to respond to the Amended Complaint, to August 6, 2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Response",
+      "explicitDate": "2026-08-06",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "LETTER ORDER granting Defendants' #5 request for additional time to respond to the Amended Complaint, to August 6, 2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "calascione-njdcf-6-1",
+      "dueDate": "2026-08-06",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "zim-td-logistics",
+  "caseName": "Zim Integrated Shipping Services, Ltd. v. TD Logistics, Inc.",
+  "caseNumber": "1:2025cv09492",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2025-11-13",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-05-04",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "zim-td-logistics-35",
+      "entryNumber": 35,
+      "dateFiled": "2026-04-14",
+      "text": "By May 4, 2026, Defendant shall file its motion to stay; 2. By May 26, 2026, Plaintiff shall respond; 3. By June 8, 2026, Defendant shall file its reply, if any.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "zim-td-logistics-31",
+      "entryNumber": 31,
+      "dateFiled": "2026-03-12",
+      "text": "By March 24, 2026, Plaintiff shall respond to Defendant's February 11, 2026 pre-motion letter. By March 31, 2026, Defendant shall answer or otherwise respond to Plaintiff's complaint.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "zim-td-logistics-36",
+      "entryNumber": 36,
+      "dateFiled": "2026-05-04",
+      "text": "MOTION to Stay . Document filed by TD Logistics, Inc...(Tisdale, Thomas)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "zim-td-logistics-33",
+      "entryNumber": 33,
+      "dateFiled": "2026-04-07",
+      "text": "LETTER addressed to Judge Analisa Torres from William Yost dated April 7, 2026 re: Response to Pre-Motion Letter. Document filed by Zim Integrated Shipping Services, Ltd...(Yost, William)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv09492/653060",
+      "textIsExcerpt": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "scaglione-mullica",
+  "caseName": "Scaglione v. Mullica Township et al",
+  "caseNumber": "1:2026cv01440",
+  "court": "njd",
+  "courtName": "District of New Jersey",
+  "dateFiled": "2026-02-12",
+  "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-08-06",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "scaglione-mullica-30",
+      "entryNumber": 30,
+      "dateFiled": "2026-07-20",
+      "text": "Second MOTION to Dismiss by MULLICA TOWNSHIP. Responses due by 8/3/2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "scaglione-mullica-28",
+      "entryNumber": 28,
+      "dateFiled": "2026-06-24",
+      "text": "Plaintiff shall file the second amended complaint no later than July 13, 2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "scaglione-mullica-29",
+      "entryNumber": 29,
+      "dateFiled": "2026-07-13",
+      "text": "AMENDED COMPLAINT against MULLICA TOWNSHIP, MULLICA TOWNSHIP UNKNOWN EXECUTIVE #1, MULLICA TOWNSHIP UNKNOWN EXECUTIVE #2, filed by DOMENIC SCAGLIONE.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "scaglione-mullica-31",
+      "entryNumber": 31,
+      "dateFiled": "2026-07-20",
+      "text": "STIPULATION of Dismissal with prejudice by STOCKTON UNIVERSITY OF NEW JERSEY. (MCNEIL, MICHAEL)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/1%3A2026cv01440/591715",
+      "textIsExcerpt": true
+    }
+  ]
+}

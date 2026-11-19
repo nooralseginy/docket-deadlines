@@ -1,0 +1,24 @@
+{
+  "entryId": "just-born-maillo-7",
+  "docketId": "just-born-maillo",
+  "inputHash": "45b2ae77988063c13d2f3f6ce0c3a6d4b425a3e453960656a339a03980934f8a",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.955Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

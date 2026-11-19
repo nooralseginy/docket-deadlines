@@ -1,0 +1,47 @@
+{
+  "id": "lopez-nj-appellate",
+  "caseName": "Lopez et al v. New Jersey Appellate Division et al",
+  "caseNumber": "2:2026cv02950",
+  "court": "njd",
+  "courtName": "District of New Jersey",
+  "dateFiled": "2026-03-23",
+  "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-07-27",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "lopez-nj-appellate-22",
+      "entryNumber": 22,
+      "dateFiled": "2026-06-10",
+      "text": "The parties are ordered to submit a joint letter informing the Court of the status of the case within seven (7) days of the District Judge issuing a decision as to the motion to dismiss at Dkt. No. #13 .",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "lopez-nj-appellate-14",
+      "entryNumber": 14,
+      "dateFiled": "2026-04-15",
+      "text": "No later than five (5) business days before the conference, the parties shall submit their joint discovery plan for the Court's consideration, as stated in the Order.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "lopez-nj-appellate-13",
+      "entryNumber": 13,
+      "dateFiled": "2026-04-13",
+      "text": "Responses due by 5/4/2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "lopez-nj-appellate-21",
+      "entryNumber": 21,
+      "dateFiled": "2026-06-10",
+      "text": "Minute Entry for proceedings held before Magistrate Judge Jose R. Almonte. An initial scheduling conference was held on June 10, 2026. Discovery will be held in abeyance pending the Motion to Dismiss. (akw, )",
+      "sourceUrl": "https://dockets.justia.com/docket/new-jersey/njdce/2%3A2026cv02950/594047",
+      "textIsExcerpt": true
+    }
+  ]
+}

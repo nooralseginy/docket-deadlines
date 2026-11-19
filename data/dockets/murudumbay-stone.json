@@ -1,0 +1,47 @@
+{
+  "id": "murudumbay-stone",
+  "caseName": "Murudumbay v. 29 Street Stone Inc. et al",
+  "caseNumber": "1:2025cv02610",
+  "court": "nysd",
+  "courtName": "Southern District of New York",
+  "dateFiled": "2025-03-30",
+  "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610",
+  "snapshotAt": "2026-11-19",
+  "sourceLastRetrieved": "2026-02-20",
+  "sourceProvider": "Justia public federal docket mirror",
+  "coverage": "Four selected entry excerpts; not a complete or current docket.",
+  "entries": [
+    {
+      "id": "murudumbay-stone-48",
+      "entryNumber": 48,
+      "dateFiled": "2025-09-10",
+      "text": "The joint pretrial order, motions in limine, and requests to charge will be due March 16, 2026, with responses due March 23, 2026.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "murudumbay-stone-53",
+      "entryNumber": 53,
+      "dateFiled": "2025-09-17",
+      "text": "ORDER denying #51 Motion for Reconsideration. Accordingly, the motion for reconsideration is denied. The Clerk of Court is respectfully directed to close the motion at Dkt. No. 51.",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "murudumbay-stone-52",
+      "entryNumber": 52,
+      "dateFiled": "2025-09-16",
+      "text": "LETTER addressed to Judge Lewis J. Liman from Jay M. Weinstein dated September 16, 2025 re: Plaintiff's motion for reconsideration. Document filed by 29 Street Stone Inc., Rafael Gavartin..(Weinstein, Jay)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610",
+      "textIsExcerpt": true
+    },
+    {
+      "id": "murudumbay-stone-51",
+      "entryNumber": 51,
+      "dateFiled": "2025-09-16",
+      "text": "FIRST MOTION for Reconsideration . Document filed by Juan Murudumbay..(Aronauer, Jacob)",
+      "sourceUrl": "https://dockets.justia.com/docket/new-york/nysdce/1%3A2025cv02610/639610",
+      "textIsExcerpt": true
+    }
+  ]
+}

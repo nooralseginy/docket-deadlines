@@ -1,0 +1,84 @@
+{
+  "entryId": "bell-nyc-education-26",
+  "docketId": "bell-nyc-education",
+  "inputHash": "04abe0a509beadec1e3724e5b9e781839fa91ed811eb3a9244cb4d7cf09d7115",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.950Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Filing",
+        "explicitDate": "2026-05-08",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Redaction Request due 5/8/2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      },
+      {
+        "kind": "Filing",
+        "explicitDate": "2026-05-18",
+        "trigger": null,
+        "periodDays": null,
+        "unit": null,
+        "direction": null,
+        "quote": "Redacted Transcript Deadline set for 5/18/2026.",
+        "confidence": 0.9,
+        "needsReview": false,
+        "reviewReason": null
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Filing",
+      "explicitDate": "2026-05-08",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Redaction Request due 5/8/2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "bell-nyc-education-26-1",
+      "dueDate": "2026-05-08",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    },
+    {
+      "kind": "Filing",
+      "explicitDate": "2026-05-18",
+      "trigger": null,
+      "periodDays": null,
+      "unit": null,
+      "direction": null,
+      "quote": "Redacted Transcript Deadline set for 5/18/2026.",
+      "confidence": 0.9,
+      "needsReview": false,
+      "reviewReason": null,
+      "id": "bell-nyc-education-26-2",
+      "dueDate": "2026-05-18",
+      "calculation": "Date stated in the entry. Preserved as ordered.",
+      "status": "dated",
+      "reviewReasons": []
+    }
+  ],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 1
+  }
+}

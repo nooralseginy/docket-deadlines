@@ -1,0 +1,24 @@
+{
+  "entryId": "zim-td-logistics-36",
+  "docketId": "zim-td-logistics",
+  "inputHash": "de065725fe9fc3eea88127fda5f4ce0285bebf146c6030f5918313762037511b",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.962Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

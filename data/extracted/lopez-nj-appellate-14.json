@@ -1,0 +1,68 @@
+{
+  "entryId": "lopez-nj-appellate-14",
+  "docketId": "lopez-nj-appellate",
+  "inputHash": "90fe049fd3cf1f4186f5e2f643f37d5f38c47e3ac5b4e50f47f64f4d9e9f695e",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.956Z",
+  "extraction": {
+    "isDeadline": true,
+    "deadlines": [
+      {
+        "kind": "Relative deadline",
+        "explicitDate": null,
+        "trigger": {
+          "event": "Trigger requires confirmation",
+          "date": null,
+          "quote": "No later than five (5) business days before the conference, the parties shall submit their joint discovery plan for the Court's consideration, as stated in the Order."
+        },
+        "periodDays": 5,
+        "unit": "business-days",
+        "direction": "before",
+        "quote": "No later than five (5) business days before the conference, the parties shall submit their joint discovery plan for the Court's consideration, as stated in the Order.",
+        "confidence": 0.7,
+        "needsReview": true,
+        "reviewReason": "Local baseline cannot confirm the triggering event or date."
+      }
+    ],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [
+    {
+      "kind": "Relative deadline",
+      "explicitDate": null,
+      "trigger": {
+        "event": "Trigger requires confirmation",
+        "date": null,
+        "quote": "No later than five (5) business days before the conference, the parties shall submit their joint discovery plan for the Court's consideration, as stated in the Order."
+      },
+      "periodDays": 5,
+      "unit": "business-days",
+      "direction": "before",
+      "quote": "No later than five (5) business days before the conference, the parties shall submit their joint discovery plan for the Court's consideration, as stated in the Order.",
+      "confidence": 0.7,
+      "needsReview": true,
+      "reviewReason": "Local baseline cannot confirm the triggering event or date.",
+      "id": "lopez-nj-appellate-14-1",
+      "dueDate": null,
+      "calculation": null,
+      "status": "review",
+      "reviewReasons": [
+        "Extraction confidence is below 0.85.",
+        "Local baseline cannot confirm the triggering event or date.",
+        "The trigger date is not stated in the trigger quote. Filing is not proof of service.",
+        "Only calendar-day and week periods are supported."
+      ]
+    }
+  ],
+  "needsReview": true,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entryId": "scaglione-mullica-29",
+  "docketId": "scaglione-mullica",
+  "inputHash": "cc426198cb3ce4d73d33f2c40ba554fe22260dcdfa554dbd0be0787892183edb",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.959Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entryId": "milestone-stapleton-4",
+  "docketId": "milestone-stapleton",
+  "inputHash": "47a85862d2a7e4e9e17e60c6a3a08e7830df3396648c27a029ffb7a9eac08750",
+  "method": "baseline",
+  "model": null,
+  "promptVersion": "deadlines-v2",
+  "extractedAt": "2026-11-19T17:31:47.957Z",
+  "extraction": {
+    "isDeadline": false,
+    "deadlines": [],
+    "needsReview": false,
+    "reviewReason": null
+  },
+  "resolved": [],
+  "needsReview": false,
+  "reviewReasons": [],
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "costUsd": 0,
+    "durationMs": 0
+  }
+}
