@@ -23,7 +23,7 @@ export function Header() {
             target="_blank"
             rel="noreferrer"
           >
-            A build by Noor Alseginy <ExternalIcon />
+            All apps <ExternalIcon />
           </a>
         </nav>
       </div>

@@ -56,7 +56,7 @@ export function Method() {
                 ? `The bundled extraction was produced by ${report.model || "Claude"}.`
                 : "The bundled extraction is a deterministic local baseline. The offline Claude pipeline is implemented separately."}{" "}
               {!report.humanReviewed &&
-                "The evaluation labels are agent-authored and provisional until Noor reviews them."}
+                "The evaluation labels are agent-authored and provisional until reviewed."}
             </p>
             <p>
               The calendar covers standard federal holidays. State holidays,
